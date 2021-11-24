@@ -16,7 +16,7 @@ up for the Honey Roasted organization. The projects listed on that page will be 
 
 ---
 
-The repositories in my [PlutoPowered](https://github.com/PlutoPowered) are my different projects revolving around game design.
+The repositories in my [PlutoPowered](https://github.com/PlutoPowered) organization are my different projects revolving around game design.
 It is currently empty.  
 
 ---
