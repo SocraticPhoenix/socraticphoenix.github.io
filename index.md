@@ -10,7 +10,7 @@ and were only written out of my own curiosity and interest.
 ---
 
 The repositories in my [HoneyRoasted](https://github.com/HoneyRoasted) organization are my different projects revolving around programming
-language design, and I am making an effort to keep them highly document and well tested. There are still a few repositories
+language design, and I am making an effort to keep them highly documented and well tested. There are still a few repositories
 there that are from older projects, but I am working on updating them. I have a [GitHub Pages Site](https://honeyroasted.github.io/)
 up for the Honey Roasted organization. The projects listed on that page will be the ones that are most up-to-date and well-documented.
 
