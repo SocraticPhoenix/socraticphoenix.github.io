@@ -1,2 +1,2 @@
 # SocraticPhoenix GitHub Pages Site
-[Link](socraticphoenix.github.io)
+[Link](https://socraticphoenix.github.io/)
