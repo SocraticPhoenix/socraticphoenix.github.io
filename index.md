@@ -1,5 +1,5 @@
 # About Me
-Hi, I'm John-Ryan Dunn (also known as SocraticPhoenix). I'm currently a computer science undergrad and a Java enthusiast. 
+Hi, I'm John-Ryan Dunn (also known as SocraticPhoenix). I'm currently a Java software engineer at an insurance company. 
 My hobby interests in the field include programming language design and occasionally game design.
 
 ### GitHub Projects
