@@ -27,5 +27,5 @@ I have since stopped development, but I leave the code up in case anyone wants t
 You can contact me:
 
 - By email, at `socraticphoenix@gmail.com`
-- Through discord, at `SocraticPhoenix#8468`
+- Through discord, at `socraticphoenix`
 - By posting an issue to one of my repositories
