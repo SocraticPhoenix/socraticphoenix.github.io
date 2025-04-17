@@ -1,5 +1,5 @@
 # About Me
-Hi, I'm John-Ryan Dunn (also known as SocraticPhoenix). I'm currently a Java software engineer at an insurance company. 
+Hi, I'm John-Ryan Dunn (also known as SocraticPhoenix). I'm currently a backend Java software engineer. 
 My hobby interests in the field include programming language design and occasionally game design.
 
 ### GitHub Projects
@@ -10,7 +10,7 @@ and were only written out of my own curiosity and interest.
 ---
 
 The repositories in my [HoneyRoasted](https://github.com/HoneyRoasted) organization are my different projects revolving around programming
-language design, and I am making an effort to keep them highly documented and well tested. I have a [GitHub Pages Site](https://honeyroasted.github.io/)
+language design. I have a [GitHub Pages Site](https://honeyroasted.github.io/)
 up for the Honey Roasted organization.
 
 ---
